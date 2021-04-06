@@ -1175,7 +1175,7 @@ color: var(--txt-c-light);
     margin-bottom: 40px;
   }
   .calculator-descr {
-    display: flex;
+   display: flex;
     flex-direction: column;
     align-items: flex-start;
     width: auto;
@@ -1186,6 +1186,7 @@ color: var(--txt-c-light);
     position: absolute;
     padding-left: 350px;
     top: 405px;
+    width: 344px;
     z-index: 1;
   }
   .calculator-form {
